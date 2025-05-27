@@ -39,6 +39,9 @@ The expected run time for demo on a "normal" desktop computer is ~2 minutes
  Please refer "MaXLinkerManual.pdf" for detailed instructions (along with screen shots) for deatiled instructions.
 
 ## 6. Citation:
-   Yugandhar et al., MaXLinker: proteome-wide cross-link identifications with high specificity and sensitivity. Molecular & Cellular Proteomics, 2020, 19(3), 554-568
+   Yugandhar et al., MaXLinker: proteome-wide cross-link identifications with high specificity and sensitivity. Molecular & Cellular Proteomics, 2020, 19(3), 554-568 (https://www.sciencedirect.com/science/article/pii/S1535947620350416).
+
+   A US patent has been granted for its algorithm (https://patents.google.com/patent/US11215621B2/en)
+   
    Highlighted as "Research Highlights" in Nature Methods (https://www.nature.com/articles/s41592-020-0752-9)
 
