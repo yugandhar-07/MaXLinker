@@ -12,7 +12,8 @@ linked by any cleavable cross-linker using MS2-MS3 XL-MS fragmentation strategy.
 • Proteome Discoverer 2.1
 
 3. Installation and Running
- Linux (Tested on Ubuntu 16.04 LTS 64-bit):
+   Download the MaXLinker copy specific to your OS (Linux/Mac/Windows) from: https://yulab.org/resources/MaxLinker/ 
+  Linux (Tested on Ubuntu 16.04 LTS 64-bit):
   (i) Download the Linux-specific folder “MaXLinker_Linux.zip” and unzip it
   (ii) The applications can be launched by the following commands through terminal
   Pre-processing: “python3 maxlinker_preprocess_gui.py”
@@ -28,7 +29,7 @@ linked by any cleavable cross-linker using MS2-MS3 XL-MS fragmentation strategy.
   Pre-processing: Double-click “MaXLinker_Preprocess.bat”
   Main search: Double-click “MaXLinker_Main.bat”
 
-4. Demo
+5. Demo
  Please refer "MaXLinkerManual.pdf" for detailed instructions (along with screen shots) for running the software.
  All the sample input and output files needed for the Demo run are available in folder "Demo_files" 
 
