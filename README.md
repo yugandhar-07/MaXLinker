@@ -27,3 +27,13 @@ Windows (Tested on Windows 10 Enterprise 64-bit)
 (ii) The applications can be launched by double-clicking specific scripts
 Pre-processing: Double-click “MaXLinker_Preprocess.bat”
 Main search: Double-click “MaXLinker_Main.bat”
+
+3. Demo
+Please refer "MaXLinkerManual.pdf" for detailed instructions (along with screen shots) for running the software.
+All the sample input and output files needed for the Demo run are available in folder "Demo_files" 
+
+The expected run time for demo on a "normal" desktop computer is ~2 minutes
+
+4. Instructions for use
+Please refer "MaXLinkerManual.pdf" for detailed instructions (along with screen shots) for deatiled instructions.
+
